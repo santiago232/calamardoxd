@@ -1,0 +1,5 @@
+C:\Users\Pineda's\source\repos\ProyectoFinal5\ProyectoFinal5\obj\Debug\net8.0-windows\ProyectoFinal5.csproj.AssemblyReference.cache
+C:\Users\Pineda's\source\repos\ProyectoFinal5\ProyectoFinal5\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Pineda's\source\repos\ProyectoFinal5\ProyectoFinal5\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Pineda's\source\repos\ProyectoFinal5\ProyectoFinal5\obj\Debug\net8.0-windows\ProyectoFinal5_MarkupCompile.cache
+C:\Users\Pineda's\source\repos\ProyectoFinal5\ProyectoFinal5\obj\Debug\net8.0-windows\ProyectoFinal5_MarkupCompile.lref
